@@ -1,0 +1,54 @@
+body{
+    text-align: center; /* Center the link horizontally */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensure the body takes up the full viewport height */
+    margin: 0; /* Remove default margin to avoid offset */
+    padding: 0; /* Remove default padding to avoid offset */
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 100;
+    font-style:Arial;
+    color: blue;
+}
+
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+    border-color: aquamarine;
+    margin-top: 30px;
+}
+
+.mini {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+p{
+    font-size: 25px;
+    font-family: monospace;
+}
+
+
+.small{
+    margin-top: 40px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: cyan;
+}
+
+.below{
+    
+    color: blue;
+    
+}
